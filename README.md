@@ -5,11 +5,14 @@ Nuist2023 Summer Training Program：OrderEZ: A Recommendation-based Ordering Sys
 该仓库为“推荐系统“部分
 
 部署方式为：Poetry
+
 使用方式：安装poetry   
 `pip install poetry`
+
 创建本项目虚拟环境：
 `poetry config virtualenvs.in-project true`
 `poetry shell`
+
 安装项目依赖
 `poetry install`
 
